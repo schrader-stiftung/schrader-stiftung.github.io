@@ -32,6 +32,7 @@ jobs:
         run: |
           hugo --minify --gc
           echo "www.schrader-stiftung.de" > public/CNAME
+          echo "google-site-verification: google3af7419577f187d2.html" > public/google3af7419577f187d2.html
 
       - name: Deploy to GitHub Pages
         if: github.event_name == 'push'
