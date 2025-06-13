@@ -6,7 +6,7 @@ header_menu: true
 
 Die Schrader-Stiftung wurde im Jahr 2019 aus dem Nachlass von Wolfgang
 Schrader gegründet, der in den Siebzigerjahren in Hamburg Meteorologie
-studierte. Ihr Zweck ist vor allem die Förderung der Forschung und der
+studierte. Ihr Zweck ist die Förderung der Forschung und der
 Studierenden auf dem Gebiet der Meteorologie.
 
 Dazu vergibt die Stiftung Stipendien an besonders
