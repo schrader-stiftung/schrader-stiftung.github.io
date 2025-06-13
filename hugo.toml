@@ -76,7 +76,7 @@ enableEmoji = true
     showFooterLinks = false
 
     [params.meta]
-        keywords = "some, keywords, for, seo, you, know, google, duckduckgo, and, such"
+        keywords = "Schrader-Stiftung, Meteorologie, Hamburg, Forschung, Studium, Studierende, Atmospheric Science, Stipendien, Förderung, Deutschland Stipendium, Universität Hamburg, Wissenschaft, Bildung, Klima, Wetterforschung, Stipendiaten, akademische Unterstützung, Nachwuchswissenschaftler, Forschungsprojekte"
 
     # [[params.contacts]]
     #     label = "phone"
