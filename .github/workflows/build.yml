@@ -29,7 +29,9 @@ jobs:
           extended: true
 
       - name: Build local site
-        run: hugo --minify --gc
+        run: |
+          hugo --minify --gc
+          echo "www.schrader-stiftung.de" > public/CNAME
 
       - name: Deploy to GitHub Pages
         if: github.event_name == 'push'
